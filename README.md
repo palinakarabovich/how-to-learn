@@ -1,18 +1,17 @@
 -----
-**Спринт 1-2** 
+**How to study?**
 -----
-## Описание проекта
-Данный проект представляет собой одностраничный лендинг о приемах эффективного обучения. Учебная работа при прохождени курса Веб Разработки в Яндекс.Практикуме.
+## Project Description
+This project is a one-page landing about effective study techniques. It was created as a part of the Web Development course at Yandex.Practicum.
 
-## Инструменты и технологии
-* HTML5,  
-* CSS3
-* flexbox,
-* позиционирование,
-* БЭМ,
-* анимация,
-* YouTube Player API
+## Tools and Technologies
+ - HTML5,
+- CSS3
+- Flexbox,
+- BEM-naming,
+- Animation,
+- YouTube Player API
 
-## Планы на проект
-- Проверить на кроссбраузерность,
-- Адаптировать верстку.
+## To do's
+- [ ] Test for cross-browser compatibility,
+- [ ] Adapt the layout.
