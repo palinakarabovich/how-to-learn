@@ -1,5 +1,6 @@
 -----
 **How to study?**
+Visit the landing on [GITHUB-PAGES](https://palinakarabovich.github.io/how-to-learn/)
 -----
 ## Project Description
 This project is a one-page landing about effective study techniques. It was created as a part of the Web Development course at Yandex.Practicum.
